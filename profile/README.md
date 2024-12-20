@@ -11,3 +11,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 4 - Suite de l'apprentissage de HTML : https://classroom.github.com/a/psZ5Ez8y
 
 5 - Introduction aux feuilles de styles : https://classroom.github.com/a/LBNUctww
+
+6 - Introduction à JavaScript : https://classroom.github.com/a/AQDwBPuY
