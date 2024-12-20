@@ -12,4 +12,4 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 
 5 - Introduction aux feuilles de styles : https://classroom.github.com/a/LBNUctww
 
-6 - Introduction à JavaScript : https://classroom.github.com/a/AQDwBPuY
+6 - Introduction à JavaScript : https://classroom.github.com/a/qt1kkjWk
