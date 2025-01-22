@@ -2,6 +2,8 @@
 
 Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien correspondant au devoir.
 
+## Introduction au front-end
+
 1 - Premiers pas avec git et GitHub : https://classroom.github.com/a/hn0lwK78
 
 2 - Page en markdown : https://classroom.github.com/a/6pEvylXw
@@ -13,3 +15,7 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 5 - Introduction aux feuilles de styles : https://classroom.github.com/a/LBNUctww
 
 6 - Introduction à JavaScript : https://classroom.github.com/a/qt1kkjWk
+
+## Introduction aux bases de données
+
+7 - SQL - Définition de données : https://classroom.github.com/a/DnVLtpVc
