@@ -19,3 +19,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 ## Introduction aux bases de données
 
 7 - SQL - Définition de données : https://classroom.github.com/a/DnVLtpVc
+
+8 - SQL - Requêtes simples et jointures : https://classroom.github.com/a/u88Wrk3W
