@@ -21,3 +21,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 7 - SQL - Définition de données : https://classroom.github.com/a/DnVLtpVc
 
 8 - SQL - Requêtes simples et jointures : https://classroom.github.com/a/u88Wrk3W
+
+9 - SQL - Calculs et requêtes sur les ensembles : https://classroom.github.com/a/cuXEq8kD
