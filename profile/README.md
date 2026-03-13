@@ -12,4 +12,6 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 
 5 - Introduction à JavaScript : https://classroom.github.com/a/qt1kkjWk
 
-6 -  Boites et éléments flexibles en CSS : https://classroom.github.com/a/cEijUcrK
+6 - Boites et éléments flexibles en CSS : https://classroom.github.com/a/cEijUcrK
+
+7 - Evénements en JavaScript : https://classroom.github.com/a/-W0oKYJP
